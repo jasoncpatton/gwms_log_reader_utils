@@ -1,0 +1,3 @@
+GlideinWMS encoded glidein log reading utils.
+Shamelessly borrowed and trimmed down into individual scripts from https://github.com/glideinWMS/glideinwms
+Not officially supported, use at your own risk!
